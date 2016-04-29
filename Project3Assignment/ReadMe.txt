@@ -1,6 +1,6 @@
 ---Make sure when you run the app you are using API 21. And to login use the credidentals
-Username: santiago
-Password: agudelo
+Username: Santiago
+Password: Agudelo
 
 or any of the other group member's name.
 
