@@ -1,6 +1,6 @@
 ---The zipped file was too big for GitHub, so we put it on google drive, here is the link:
 
-https://drive.google.com/open?id=0B5Ojj9a9vV81MzdJNUtUeFZqczg
+https://drive.google.com/file/d/0B5Ojj9a9vV81MzdJNUtUeFZqczg/view?usp=sharing
 
 
 Using the google drive is the EASIEST way to get the full app downloaded, this is a public link and anyone should be able to acccess it. However, if you prefer to do
